@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 123,
+      "name": "Pasta",
+      "price": "3000",
+      "image": "https://cdn.pixabay.com/photo/2016/05/14/18/20/spaghetti-1392266_960_720.jpg"
+    },
+    {
+      "id": 131,
+      "name": "Milk",
+      "price": "4000",
+      "image": "https://cdn.pixabay.com/photo/2018/03/16/16/42/milk-3231772_960_720.jpg"
+    },
+    {
+      "id": 132,
+      "name": "Ice Cream",
+      "price": "5000",
+      "image": "https://cdn.pixabay.com/photo/2016/12/26/16/09/bowl-1932375_960_720.jpg"
+    },
+    {
+      "id": 133,
+      "name": "Salmon",
+      "price": "10000",
+      "image": "https://cdn.pixabay.com/photo/2021/01/05/23/18/salmon-5892659_960_720.jpg"
+    },
+    {
+      "id": 134,
+      "name": "Coffee",
+      "price": "2000",
+      "image": "https://cdn.pixabay.com/photo/2019/07/18/04/23/coffe-4345449_960_720.jpg"
+    },
+    {
+      "id": 135,
+      "name": "Cake",
+      "price": "4000",
+      "image": "https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971552_960_720.jpg"
+    }
+  ]
+}
